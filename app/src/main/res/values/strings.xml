@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Medicine LookUp</string>
+    <string name="queryHint">Search for Medicine</string>
+    <string name="searchTextButton">SEARCH</string>
+    <string name="backButton">Back to Search</string>
+    <string name="medHintText">Penicillin Is Covered By:</string>
+    <string name="dummyData">0:  \"Oxford\" 1:  \"Wellcare\" 2:  \"State Farm\" 3:  \"Kaiser Permente\"</string>
+    <string name="erroMsg">Search Query Cannot Be Empty</string>
+    <string name="dummyProvider">[Anthem Blue Cross]</string>
+
+
+</resources>
